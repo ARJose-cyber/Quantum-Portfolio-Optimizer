@@ -21,5 +21,5 @@ An advanced financial engineering tool that uses **Quantum Approximate Optimizat
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/quantum-portfolio-optimizer.git](https://github.com/YOUR_USERNAME/quantum-portfolio-optimizer.git)
+  git clone https://github.com/ARJose-cyber/-Quantum-Portfolio-Optimizer.git
    cd quantum-portfolio-optimizer
