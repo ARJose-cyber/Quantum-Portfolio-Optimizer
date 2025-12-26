@@ -1,0 +1,9 @@
+qiskit>=1.0.0
+qiskit-optimization
+qiskit-algorithms
+qiskit-aer
+yfinance
+pandas
+streamlit
+plotly
+python-dotenv
